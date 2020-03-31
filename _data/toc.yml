@@ -43,14 +43,14 @@
 - header: Contents
 
 # A chapter w/ a collection of sections beneath it
-- title: Features and customization
+- title: Data analytics
   url: /features/features
   not_numbered: true
   expand_sections: true
   sections:
-  - title: Markdown files
-    url: /features/markdown
+  - title: Basic LDA example
+    url: /features/Lecture1_basicLDA
     not_numbered: true
-  - title: Jupyter notebooks
-    url: /features/notebooks
+  - title: Xgboost example
+    url: /features/Lecture2_xgboost
     not_numbered: true
